@@ -1,6 +1,7 @@
 # ------------------------------------------------------------------
 # PYTHON CONCEPT: VARIABLES & USER INPUT
 # Variables are used to store data, and user input allows interaction.
+#uploaded to github by zaid khan bro
 # ------------------------------------------------------------------
 
 print("=== 1. TRIP BUDGET CALCULATOR ===")
